@@ -1,0 +1,9 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic5-starter-tutorial",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/snap/bin/android-studio",
+  "cordova": {}
+}
